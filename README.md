@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema BUAP API
 
 API REST para el sistema de gestión de la BUAP (Benemérita Universidad Autónoma de Puebla).
@@ -922,3 +923,7 @@ Algunos campos en la base de datos se almacenan como JSON en formato de texto:
    ```bash
    $ gcloud app deploy -v {ULTIMA_VERSION_DESPLEGADA}
    ```
+=======
+# sistema-buap-api
+BACK MATERIA MOVILES BUAP 
+>>>>>>> 3ba0096034ca4bd9f6a8c965b93a5ff6f6789160
